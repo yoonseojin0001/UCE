@@ -1,0 +1,1789 @@
+new_prompts:
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+prev_prompts:
+- Brenda Zlamany
+- Rich Davies
+- Maginel Wright Enright Barney
+- Andy Goldsworthy
+- Raymond Swanland
+- Gerda Wegener
+- Larry Elmore
+- Lyonel Feininger
+- Mike Mayhew
+- Travis Louie
+prompts:
+- Brenda Zlamany
+- Rich Davies
+- Maginel Wright Enright Barney
+- Andy Goldsworthy
+- Raymond Swanland
+- Gerda Wegener
+- Larry Elmore
+- Lyonel Feininger
+- Mike Mayhew
+- Travis Louie
+- Chen Zhen
+- Albert Watson
+- Mikalojus Konstantinas Ciurlionis
+- Arkhyp Kuindzhi
+- Edmund Leighton
+- Hein Gorny
+- Abed Abdi
+- Samuel Melton Fisher
+- Thomas Kinkade
+- Kathryn Morris Trotter
+retain_prompts:
+- Chen Zhen
+- Albert Watson
+- Mikalojus Konstantinas Ciurlionis
+- Arkhyp Kuindzhi
+- Edmund Leighton
+- Hein Gorny
+- Abed Abdi
+- Samuel Melton Fisher
+- Thomas Kinkade
+- Kathryn Morris Trotter
+- Nan Goldin
+- Will Eisner
+- Emmanuelle Moureaux
+- Alfred Augustus Glendening
+- Richard Diebenkorn
+- Mickalene Thomas
+- Ralph McQuarrie
+- Guy Billout
+- "Gustave Dor\xE9"
+- Mike Winkelmann (Beeple)
+- Sherree Valentine Daines
+- Vincent Tanguay
+- Clemens Ascher
+- Ben Quilty
+- Jerzy Duda-Gracz
+- Incarcerated Jerkfaces
+- Ollie Hoff
+- Gerhard Richter
+- Jeff Legg
+- Jim Woodring
+- Johannes Itten
+- Marjane Satrapi
+- Dariusz Zawadzki
+- Mandy Disher
+- Keith Haring
+- Frederick Lord Leighton
+- Tadao Ando
+- Edward Lear
+- August Friedrich Schenck
+- John La Farge
+- Yoshitaka Amano
+- "Arnold B\xF6cklin"
+- Paula Modersohn-Becker
+- Kuang Hong
+- Lee Krasner
+- Max Weber
+- Klaus Burgle
+- Otto Dix
+- Leiji Matsumoto
+- Camille Corot
+- Pieter Aertsen
+- Ilya Repin
+- Winslow Homer
+- Alvin Langdon Coburn
+- Alex Russell Flint
+- Jean-Antoine Watteau
+- Akihiko Yoshida
+- Dick Bickenbach
+- Earl Norem
+- Bert Stern
+- Louis Glackens
+- Jasmine Becket-Griffith
+- Nathan Wirth
+- Abraham Mintchine
+- Camille Pissarro
+- Kentaro Miura
+- Ai Yazawa
+- Malcolm Liepke
+- Joan Tuset
+- Artur Bordalo
+- Genndy Tartakovsky
+- Tove Jansson
+- Arthur Tress
+- Arthur Garfield Dove
+- Chantal Joffe
+- George Dionysus Ehret
+- Henri Rousseau
+- Sebastian Errazuriz
+- Fenghua Zhong
+- Alfred Kubin
+- Eddie Campbell
+- Henri Matisse
+- Eiichiro Oda
+- Antonio J. Manzanedo
+- Ken Fairclough
+- Saul Bass
+- Anja Millen
+- Shintaro Kago
+- David Wiesner
+- Yohann Schepacz
+- "Andr\xE9 Lhote"
+- William Blake
+- Anton Raphael Mengs
+- Chris Ofili
+- Kent Monkman
+- George Frederic Watts
+- Magnus Enckell
+- Giovanni Battista Venanzi
+- Wayne Barlowe
+- Jim Lee
+- Marek Okon
+- Peter Milligan
+- Johfra Bosschart
+- Alois Arnegger
+- Gordon Parks
+- August von Pettenkofen
+- Grace Cossington Smith
+- Goro Fujita
+- Akseli Gallen-Kallela
+- Anton Corbijn
+- Akos Major
+- Jan Luyken
+- William Henry Hunt
+- Stanley Donwood
+- Dmitry Kustanovich
+- Liu Ye
+- Sonia Delaunay
+- Alex Grey
+- Aleksey Savrasov
+- Arik Brauer
+- Zhichao Cai
+- William Etty
+- Elenore Abbott
+- John Totleben
+- Karl Schmidt-Rottluff
+- Robert Rauschenberg
+- Craig Mullins
+- Walt Disney
+- Alexandre Jacovleff
+- George Herriman
+- "Jean-L\xE9on G\xE9r\xF4me"
+- Vincent Van Gogh
+- Bojan Jevtic
+- teamLab
+- Everett Raymond Kinstler
+- Abram Efimovich Arkhipov
+- Alphonse Mucha
+- Frank Gehry
+- Joachim Brohm
+- Jean Metzinger
+- Auguste Toulmouche
+- Dorina Costras
+- Arthur Streeton
+- Iain Faulkner
+- Kehinde Wiley
+- Caspar David Friedrich
+- William Wegman
+- Osamu Tezuka
+- Gwen John
+- Naoki Urasawa
+- Miriam Schapiro
+- Asaf Hanuka
+- Bernardo Strozzi
+- Andrew Robinson
+- Larry Sultan
+- Yasushi Nirasawa
+- Pieter Jansz Saenredam
+- Arthur Boyd
+- Katsuhiro Otomo
+- Rumiko Takahashi
+- Laurie Greasley
+- Hubert Robert
+- Scott Brundage
+- John Philip Falter
+- Antony Gormley
+- Muxxi
+- Austin Osman Spare
+- Qing Han
+- Olivier Valsecchi
+- Aries Moross
+- Giotto Di Bondone
+- Wes Anderson
+- Louis Comfort Tiffany
+- Jun Kaneko
+- Gifford Beal
+- Sofonisba Anguissola
+- Masamune Shirow
+- Bruno Walpoth
+- Junji Ito
+- George Stubbs
+- Dan Witz
+- James Tissot
+- Mark Briscoe
+- Adolph Gottlieb
+- Ford Madox Brown
+- Andre De Dienes
+- Canaletto
+- Henry Raleigh
+- Charles Schulz
+- Alvaro Siza
+- Yves Tanguy
+- Thomas Rowlandson
+- James Turrell
+- Brian Sum
+- Aaron Horkey
+- Ed Benedict
+- John Berkey
+- Samuel and Joseph Newsom
+- Stevan Dohanos
+- David Burliuk
+- Anton Pieck
+- Julie Mehretu
+- Grandma Moses
+- Afarin Sajedi
+- Lynd Ward
+- Milton Avery
+- Tyler Shields
+- Marcin Jakubowski
+- Antonello da Messina
+- Chris Saunders
+- Amanda Clark
+- E. H. Shepard
+- Craola
+- "Alexandre-E\u0301variste Fragonard"
+- Jean Nouvel
+- Walter Langley
+- Kris Kuksi
+- Neil Boyle
+- Bill Brandt
+- Chris Moore
+- John Kenn Mortensen
+- Anna Razumovskaya
+- Ogawa Kazumasa
+- Michelangelo Merisi Da Caravaggio
+- Brian K. Vaughan
+- Otto Marseus van Schrieck
+- Robert William Hume
+- Quentin Blake
+- Alessio Albi
+- Yves Klein
+- Thomas Struth
+- Andreas Achenbach
+- Andrew Macara
+- Alex Howitt
+- Eugene Delacroix
+- Ernst Haeckel
+- Steve Lieber
+- Georges Rouault
+- Gloria Stoll Karn
+- Bella Kotak
+- Leonid Afremov
+- Eileen Agar
+- David Teniers the Younger
+- Francis Bacon
+- Richard Hamilton
+- Adam Martinakis
+- Christophe Vacher
+- Stan Lee
+- Bordalo II
+- Apollinary Vasnetsov
+- Patrick Dougherty
+- Terry Redlin
+- Peter Andrew Jones
+- NC Wyeth
+- Artem Chebokha
+- Sanford Kossin
+- Alex Toth
+- Franz Xaver Winterhalter
+- Albrecht Anker
+- Alan Lee
+- Sally Mann
+- Sandra Chevrier
+- Marcus Selmer
+- Terada Katsuya
+- Ray Donley
+- Richard Deacon
+- Akira Toriyama
+- Kitty Lange Kielland
+- Liam Wong
+- Bernardo Bellotto
+- Robert Williams
+- Rembrandt Van Rijn
+- Mikhail Nesterov
+- Francesca Woodman
+- Jean Marc Nattier
+- Toumas Korpi
+- Alexandr Averin
+- David Bowie
+- Boris Grigoriev
+- Edouard Riou
+- Robert Childress
+- Dora Carrington
+- Paolo Roversi
+- Alan Davis
+- "\xC9tienne-Louis Boull\xE9e"
+- Vincent Di Fate
+- Daniel Merriam
+- Viktoria Gavrilenko
+- Joel Meyerowitz
+- Gustave Van de Woestijne
+- Norman Ackroyd
+- Allie Brosh
+- Lee Madgwick
+- Hannah Hoch
+- Steve Argyle
+- Nick Silva
+- Brad Rigney
+- Sou Fujimoto
+- Abraham Pether
+- Howard Hodgkin
+- Edmund Dulac
+- Elizabeth Shippen Green
+- Andreas Gursky
+- Alexey Kurbatov
+- J.C. Leyendecker
+- Don Maitz
+- Ronald Balfour
+- Charles Blackman
+- Igor Morski
+- Bill Medcalf
+- Ettore Tito
+- Raphael
+- Michael Parkes
+- Amy Judd
+- Alessandro Barbucci
+- Alexander Jansson
+- Guillermo del Toro
+- Allen Williams
+- "Am\xE9d\xE9e Guillemin"
+- Thomas Blackshear
+- Alice Bailly
+- Matt Groening
+- Daniel Ridgway Knight
+- Shusei Nagaoko
+- Tomer Hanuka
+- Greg Girard
+- Peter Howson
+- James Thomas Watts
+- Al Williamson
+- Antonio Mancini
+- Steve Dillon
+- Robert Hagan
+- Damien Hirst
+- Edward Hopper
+- Ed Brubaker
+- William Kentridge
+- Leticia Gillett
+- Tom Lovell
+- Christian Grajewski
+- Marsden Hartley
+- Antonio Mora
+- Jeffrey T. Larson
+- Diego Dayer
+- Andy Kehoe
+- Jeannette Guichard-Bunel
+- Mary Cassatt
+- Matias Hannecke
+- Victor Moscoso
+- James Paick
+- Bertil Nilsson
+- Arnold Schoenberg
+- Hiroshi Sugimoto
+- Stephen Gammell
+- Basil Gogos
+- Victoria Crowe
+- Lady Pink
+- Mike Deodato
+- Jimmy Ernst
+- Raymond Briggs
+- Victor Vasarely
+- Os Gemeos
+- Albert Lynch
+- Chip Zdarsky
+- Peter Kemp
+- Ettore Sottsass
+- Auguste Mambour
+- Robert Antoine Pinchon
+- Remedios Varo
+- Berthe Morisot
+- Ron Walotsky
+- Till Freitag
+- Robert Vonnoh
+- Conrad Roset
+- Craig Davison
+- Ken Sugimori
+- Henri-Edmond Cross
+- Yoshiyuki Tomino
+- Helene Schjerfbeck
+- Elsa Beskow
+- Barbara Stauffacher Solomon
+- Craig Wylie
+- Todd McFarlane
+- Alberto Burri
+- Anne Dewailly
+- Joanna Kustra
+- Albert Kotin
+- Qian Xuan
+- Liubov Sergeevna Popova
+- Kelly Freas
+- Charles Camoin
+- Tony DiTerlizzi
+- Anna and Elena Balbusso
+- Antonio Roybal
+- Thomas Saliot
+- Bruce Pennington
+- Toshiharu Mizutani
+- Jordan Grimmer
+- Thornton Oakley
+- Clara Miller Burd
+- "Axel T\xF6rneman"
+- Salvador Dali
+- Ching Yeh
+- Leon Kossoff
+- Bill Gekas
+- John William Waterhouse
+- George Cruikshank
+- Robert Neubecker
+- Noelle Stevenson
+- Brooke Shaden
+- Flora Borsi
+- Gary Larson
+- Raja Ravi Varma
+- Richard Scarry
+- Winsor McCay
+- Jeremy Mann
+- Alex Gross
+- Frida Kahlo
+- Kay Nielsen
+- Jim Mahfood
+- James Abbott McNeill Whistler
+- El Greco
+- Mike Mignola
+- Clarence Holbrook Carter
+- Viviane Sassen
+- Bill Watterson
+- Edwin Henry Landseer
+- Saturno Butto
+- OSGEMEOS
+- Leonora Carrington
+- Louis Janmot
+- Dorothea Tanning
+- Jamie Hewlett
+- Catrin Welz-Stein
+- Sven Nordqvist
+- "Zdzis\u0142aw Beksi\u0144ski"
+- Agostino Arrivabene
+- Alice Neel
+- Peter Doig
+- Zhang Kechun
+- Amedee Ozenfant
+- Lisa Frank
+- Arthur Sarnoff
+- L. Birge Harrison
+- Chris Cunningham
+- Karol Bak
+- Bill Henson
+- Rob Liefeld
+- Stanislav Poltavsky
+- Tim Burton
+- Aron Demetz
+- Francisco De Goya
+- Chris Van Allsburg
+- Janek Sedlar
+- Augustus Edwin Mulready
+- theCHAMBA
+- Ernst Ludwig Kirchner
+- Alpo Jaakola
+- Anne Packard
+- Faith Ringgold
+- Johannes Vermeer
+- Yanjun Cheng
+- Gordon Browne
+- Andre Derain
+- Scott Naismith
+- Margaret Brundage
+- Joey Chou
+- Jaya Suberg
+- Tan Zhi Hui
+- Karl Blossfeldt
+- Anatoly Metlan
+- Simon Birch
+- Ni Chuanjing
+- Jamie McKelvie
+- Valerie Hegarty
+- Paul Ranson
+- Pascale Campion
+- RETNA (Marquis Lewis)
+- Mort Kunstler
+- Tyler West
+- Yue Minjun
+- Barry McGee
+- John Blanche
+- Casey Weldon
+- Joseph Ducreux
+- Alan Schaller
+- Johann Wolfgang von Goethe
+- Kuno Veeber
+- Alexander Bogen
+- Gabriel Dawe
+- Robert Chew
+- Shaun Tan
+- Studio Ghibli
+- Gertrude Abercrombie
+- Edvard Munch
+- John Currin
+- Franz Sedlacek
+- "Rodr\xEDguez ARS"
+- Alexei Harlamoff
+- David Burdeny
+- Thomas Benjamin Kennington
+- Alberto Seveso
+- Roger de La Fresnaye
+- Anita Malfatti
+- Anthony Thieme
+- Al Feldstein
+- Constantin Brancusi
+- Alex Figini
+- Artgerm
+- Tara McPherson
+- Chris Uminga
+- Christopher Balaskas
+- Debbie Criswell
+- Alison Bechdel
+- Georg Karl Pfahler
+- Cory Loftis
+- W.W. Denslow
+- Charles Spencelayh
+- Clovis Trouille
+- Odilon Redon
+- Hirohiko Araki
+- Joe Fenton
+- Annibale Carracci
+- Brian Kesinger
+- Aaron Jasinski
+- Jake Parker
+- Charles E. Burchfield
+- Simon Stalenhag
+- "Stanis\u0142aw Szukalski"
+- Dustin Nguyen
+- Roger Ballen
+- Anish Kapoor
+- Louis Wain
+- Ted Wallace
+- Tatsuro Kiuchi
+- Julien Delval
+- Bernard Buffet
+- Barbara Hepworth
+- Bjarke Ingels
+- Andrew Wyeth
+- Paolo Veronese
+- John Perceval
+- Mark Keathley
+- Charles Dana Gibson
+- Nick Sharratt
+- Bakemono Zukushi
+- Alex Maleev
+- Gustave Buchet
+- J.M.W. Turner
+- Pieter Claesz
+- Silvestro Lega
+- Claude Monet
+- Koson Ohara
+- Haddon Sundblom
+- Odd Nerdrum
+- Adam Paquette
+- Vladimir Kush
+- Tsutomu Nihei
+- Paul Barson
+- Norman Foster
+- Mike Worrall
+- Alex Andreev
+- Oskar Kokoschka
+- Ed Mell
+- Jeremy Lipking
+- Julius Horsthuis
+- Roberto Matta
+- Bruno Catalano
+- John Whitcomb
+- Louis Rhead
+- Daniela Uhlig
+- Wim Crouwel
+- Marat Latypov
+- Hope Gangloff
+- Sydney Prior Hall
+- Phil Foglio
+- Ayan Nag
+- George Inness
+- Clara Peeters
+- Pablo Picasso
+- Aaron Siskind
+- Mark Rothko
+- NHK Animation
+- Josef Albers
+- Frank Holl
+- Atay Ghailan
+- "Piotr Jab\u0142o\u0144ski"
+- Sacha Goldberger
+- Franklin Booth
+- Balthus
+- Scott Listfield
+- Jan van Kessel the Elder
+- Alexandre Benois
+- Teresa Ramos
+- Andre Kertesz
+- Arshile Gorky
+- Anthony Gerace
+- Greg Hildebrandt
+- Atelier Olschinsky
+- Jean Jullien
+- Louis Icart
+- Bob Byerley
+- Jeremy Geddes
+- David B. Mattingly
+- Matthias Jung
+- Roy Lichtenstein
+- Santiago Caruso
+- Sandy Skoglund
+- Irma Stern
+- Bruno Munari
+- Brooke DiDonato
+- Richard Misrach
+- Piet Mondrian
+- Alexis Gritchenko
+- Fabio Hurtado
+- Gareth Pugh
+- Charlie Bowater
+- Barclay Shaw
+- Bill Viola
+- Phil Jimenez
+- H. R. (Hans Ruedi) Giger
+- Vittorio Matteo Corcos
+- Virgil Finlay
+- Tom Roberts
+- James Stokoe
+- Andrzej Sykut
+- Kitagawa Utamaro
+- Ludwig Mies van der Rohe
+- Rodney Matthews
+- Filippino Lippi
+- Utagawa Hiroshige
+- Stuart Davis
+- Pieter de Hooch
+- Alyssa Monks
+- Aggi Erguna
+- Jeff Lemire
+- John Stezaker
+- Lawren Harris
+- Paul Wonner
+- "Kawanabe Ky\u014Dsai"
+- Robert Stivers
+- Tom Bagshaw
+- Frank Xavier Leyendecker
+- Leonardo Da Vinci
+- Victor Brauner
+- Gianluca Foli
+- Adolph Menzel
+- Rafael Albuquerque
+- Charles Vess
+- Jean-Baptiste Monge
+- "Diego Vel\xE1zquez"
+- Kasia Nowowiejska
+- Kadir Nelson
+- Guido Crepax
+- Roberto Parada
+- Nicholas Roerich
+- Jason A. Engle
+- Gilbert Stuart
+- Anni Albers
+- Anna Ancher
+- Kim Jung Gi
+- Jean Giraud
+- Victor Medina
+- Wendy Froud
+- Mat Collishaw
+- Adriaen van Ostade
+- David McClellan
+- Roberto Ferri
+- Edward Atkinson Hornel
+- Miho Hirano
+- Kapwani Kiwanga
+- Alfred Stevens
+- Joe De Mers
+- Alfredo Jaar
+- Doug Chiang
+- Anton Domenico Gabbiani
+- John Martin
+- Jack Davis
+- Bo Bartlett
+- Tamara Lempicka
+- Alex Petruk
+- John Bratby
+- Ivan Shishkin
+- Arthur Wardle
+- Quint Buchholz
+- Hans Baldung
+- Alex Timmermans
+- William Morris
+- Derek Boshier
+- Ferdinand Knab
+- Edward Robert Hughes
+- Peter Bagge
+- Albert Pinkham Ryder
+- Bill Sienkiewicz
+- Neil Welliver
+- Bastien Lecouffe-Deharme
+- Patrick Brown
+- Alvar Aalto
+- Steve Henderson
+- Lois van Baarle
+- Ryan Hewett
+- Daniel Buren
+- James Gillray
+- Henri Fantin Latour
+- Sean Scully
+- Jorge Jacinto
+- Jenny Saville
+- Naoko Takeuchi
+- Chiharu Shiota
+- Frank Frazetta
+- Wolfgang Tillmans
+- Ian Miller
+- August Sander
+- Lucas Cranach the Elder
+- Uemura Shoen
+- Amir Zand
+- Aaron Douglas
+- Ken Kelly
+- "Andr\xE9 Masson"
+- Raffaello Sanizo
+- Rolf Armstrong
+- Meryl McMaster
+- Alan Kenny
+- Ashley Willerton
+- Nikolai Ge
+- Grace Popp
+- Eric Wallis
+- Loretta Lux
+- Ismail Inceoglu
+- Joe Jusko
+- Shepard Fairey
+- Warren Ellis
+- Emory Douglas
+- Pierre Bonnard
+- Dan Flavin
+- "Joan Mir\xF3"
+- Pixar Concept Artists
+- Hayao Miyazaki
+- Adriaen van Outrecht
+- Jimmy Lawlor
+- Rene Magritte
+- Jamie Baldridge
+- Robert McCall
+- Edwin Austin Abbey
+- George Lucas
+- Ralph Horsley
+- Mikhail Vrubel
+- Peter Zumthor
+- Mark Brooks
+- Nobuyoshi Araki
+- Richard Lindner
+- Berndnaut Smilde
+- Dorothy Lathrop
+- Jerry Pinkney
+- Pieter Bruegel The Elder
+- Kelly Mckernan
+- Hieronymus Bosch
+- Shaddy Safadi
+- Adrian Ghenie
+- Butcher Billy
+- F Scott Hess
+- Syd Mead
+- Kobayashi Kiyochika
+- "Joaqu\xEDn Sorolla"
+- M.W. Kaluta
+- Sir James Guthrie
+- Tex Avery
+- Issac Levitan
+- Zack Snyder
+- John Wayne Gacy
+- Dave Dorman
+- Isaac Levitan
+- Olivier Bonhomme
+- Aykut Aydogdu
+- Tomasz Alen Kopera
+- Augustus John
+- Takato Yamamoto
+- Karel Appel
+- Walter Percy Day
+- Simeon Solomon
+- Bayard Wu
+- Brian Oldham
+- Ed Roth
+- Allison Bechdel
+- Alberto Magnelli
+- George French Angas
+- Abbott Handerson Thayer
+- Ruth Bernhard
+- Dao Le Trong
+- Hans Bellmer
+- Charline von Heyl
+- Albert Dubois-Pillet
+- David Palumbo
+- Martiros Saryan
+- Angela Barrett
+- Aron Wiesenfeld
+- Kazuo Koike
+- Brice Marden
+- "Ewald R\xFCbsamen"
+- Cliff Chiang
+- Mao Hamaguchi
+- Stephen Shore
+- Bill Durgin
+- Jack Butler Yeats
+- Ivan Bilibin
+- Scarlett Hooft Graafland
+- Andre-Charles Boulle
+- Konstantin Korovin
+- Serge Marshennikov
+- Enki Bilal
+- Albrecht Durer
+- Ed Binkley
+- Randolph Caldecott
+- Faith 47
+- Anne Rothenstein
+- Armand Point
+- Marc Samson
+- Joseph Cornell
+- Steve McCurry
+- Andrew Whem
+- Albert Marquet
+- Yayoi Kusama
+- Henry Moore
+- Stuart Immonen
+- Adonna Khare
+- Anton Fadeev
+- Fernand Khnopff
+- Ed Emshwiller
+- Nikolina Petolas
+- Carlo Crivelli
+- Affandi
+- Abdel Hadi Al Gazzar
+- Thomas Allom
+- David Driskell
+- Ferdinand Hodler
+- Konstantin Yuon
+- Gwenda Morgan
+- Luis Royo
+- Bridget Bate Tichenor
+- Helio Oiticica
+- Jessica Rossier
+- Man Ray
+- Alberto Giacometti
+- Guerrilla Girls
+- Rudolf Freund
+- Annie Swynnerton
+- Tomi Ungerer
+- Anne Truitt
+- Josh Kao
+- Dave Gibbons
+- Nicolas Delort
+- Julia Contacessi
+- Ruan Jia
+- David Aja
+- Takeshi Obata
+- Alexander Fedosav
+- Giovanni Battista Piranesi
+- Bruce Nauman
+- Susan Luo
+- Oleg Oprisco
+- Albert Goodwin
+- George Luks
+- Chris Turnham
+- Fabian Perez
+- Jesper Ejsing
+- Posuka Demizu
+- Tom Thomson
+- Andrew Ferez
+- Kilian Eng
+- Darwyn Cooke
+- Patricia Polacco
+- Pawel Kuczynski
+- Dave McKean
+- Arturo Souto
+- Jacob van Ruisdael
+- Aubrey Beardsley
+- Titian
+- Adrianus Eversen
+- Billy Childish
+- Ephraim Moses Lilien
+- John Bauer
+- Albert Bloch
+- Grant Wood
+- Barkley L. Hendricks
+- John Harris
+- Max Beckmann
+- John Duncan
+- Aminollah Rezaei
+- Haroon Mirza
+- Robert Crumb
+- Lorenz Hideyoshi
+- Dean Ellis
+- Charles Schridde
+- Friedensreich Regentag
+- Yinka Shonibare
+- Herve Groussin
+- Ernest Crichlow
+- "Th\xE9odore G\xE9ricault"
+- Squeak Carnwath
+- Bhupen Khakhar
+- Henri De Toulouse Lautrec
+- Satoshi Kon
+- "L\xE1szl\xF3 Moholy-Nagy"
+- Georges Seurat
+- Bess Hamiti
+- Lee Quinones
+- Alfred Guillou
+- Lovis Corinth
+- Ramon Casas
+- Rick Guidice
+- Emily Kame Kngwarreye
+- Conor Harrington
+- tokyogenso
+- Asher Brown Durand
+- Sam Spratt
+- Alberto Vargas
+- Go Nagai
+- Jeff Kinney
+- "Jean-Fran\xE7ois Millet"
+- Alexander Millar
+- Bob Eggleton
+- Jeff Wall
+- Amiet Cuno
+- Cicely Mary Barker
+- "Cha\xEFm Soutine"
+- Ruxing Gao
+- Tony Moore
+- "M\xE9ret Oppenheim"
+- Maximilian Pirner
+- Charles Angrand
+- Marc Chagall
+- Elaine de Kooning
+- Alson Skinner Clark
+- Alexander Archipenko
+- Armand Guillaumin
+- Camille Walala
+- Jane Graverol
+- Victo Ngai
+- Thomas Visscher
+- Clive Madgwick
+- David Ligare
+- Tracey Emin
+- Horace Vernet
+- Angela Sung
+- Alexandre Calame
+- Wim Wenders
+- Ben Aronson
+- Alessandro Allori
+- Jean-Paul Riopelle
+- Christopher Jin Baron
+- Laurel Burch
+- Peter Gric
+- Lucian Freud
+- Jovana Rikalo
+- Arthur Radebaugh
+- Helen Frankenthaler
+- Amandine Van Ray
+- Klaus Wittmann
+- Phil Noto
+- Romero Britto
+- Anato Finnstark
+- Norman Rockwell
+- Judy Chicago
+- Ida Rentoul Outhwaite
+- Ben Goossens
+- John Lavery
+- Antonio Canova
+- Chris Ware
+- Edward John Poynter
+- Rebecca Guay
+- John Cassaday
+- James Gilleard
+- Skottie Young
+- Andreas Franke
+- Umberto Boccioni
+- Emilia Wilk
+- Ted Nasmith
+- Jon McCoy
+- Frederick McCubbin
+- Albert Tucker
+- Hasui Kawase
+- Briana Mora
+- Jacques Nathan-Garamond
+- George Grosz
+- Donato Giancola
+- Colin Geller
+- Chad Knight
+- Mead Schaeffer
+- John Anster Fitzgerald
+- Frits Van den Berghe
+- Alex Prager
+- Michal Lisowski
+- Alphonse Osbert
+- Sarah Lucas
+- Albert Koetsier
+- Claude Cahun
+- Art Fitzpatrick
+- Jeff Goldblum
+- Ayami Kojima
+- Alfred Parsons
+- Gediminas Pranckevicius
+- Terry Oakes
+- Jeanloup Sieff
+- Sam Kieth
+- Barnett Newman
+- Henry Ossawa Tanner
+- Brett Whiteley
+- Maximilien Luce
+- Dan Mumford
+- Hethe Srodawa
+- Margaret Mee
+- Milo Manara
+- Agostino Tassi
+- Luisa Russo
+- Chesley Bonestell
+- Emil Alzamora
+- Boris Kustodiev
+- Anton Otto Fischer
+- Naomi Okubo
+- "Rafa\u0142 Olbi\u0144ski"
+- Alena Aenami
+- Ed Freeman
+- Adrian Smith
+- Erich Heckel
+- Paul Corfield
+- Matt Fraction
+- "Francisco Mart\xEDn"
+- Abigail Larson
+- Al Capp
+- Andrea Mantegna
+- Alan Bean
+- Moebius
+- Peter Holme III
+- Kelly Sue Deconnick
+- John Wilhelm
+- Thomas Dodd
+- Fernando Herenu
+- Yasuo Kuniyoshi
+- Harold McCauley
+- Noriyoshi Ohrai
+- Giuseppe de Nittis
+- Julie Blackmon
+- Frank Auerbach
+- Les Edwards
+- Brent Cotton
+- Zaha Hadid
+- Darren Bacon
+- Marianne North
+- Albert Gleizes
+- Anton Semenov
+- Alfred Eisenstaedt
+- Eero Saarinen
+- Ando Fuchs
+- Augustus Jansson
+- Alan Parry
+- Barry Windsor Smith
+- Adam Elsheimer
+- Saul Tepper
+- Ambrosius Benson
+- "Jos\xE9 Clemente Orozco"
+- Johannes Voss
+- Emil Nolde
+- Amy Earles
+- Victor Adame Minguez
+- William Stout
+- William Hogarth
+- William Gropper
+- Brian Froud
+- Jillian Tamaki
+- Storm Thorgerson
+- Tokujin Yoshioka
+- Margaret Macdonald Mackintosh
+- Eyvind Earle
+- Art Frahm
+- Daniel Clowes
+- Loish
+- Adrian Tomine
+- Charles Liu
+- Antoine Blanchard
+- Giovanni Battista Gaulli
+- Wojciech Ostrycharz
+- Anto Carte
+- "K\xE4the Kollwitz"
+- Andrey Remnev
+- Mark Arian
+- Nick Knight
+- Brian Despain
+- Richard Eurich
+- James Gurney
+- Etel Adnan
+- Peter Sculthorpe
+- Carl Spitzweg
+- Atey Ghailan
+- Ryan McGinley
+- Joao Ruas
+- Inio Asano
+- Esao Andrews
+- Honor C. Appleton
+- Albert Servaes
+- Antoni Gaudi
+- Ohara Koson
+- Giovanni da Udina
+- Alex Garant
+- Grayson Perry
+- Arthur Rackham
+- Beauford Delaney
+- Kevin Gnutzmans
+- William Zorach
+- Jean-Michel Basquiat
+- Ivan Albright
+- Phil Koch
+- Jan Brett
+- Hayv Kahraman
+- Marc Davis
+- Hans Baluschek
+- "Herv\xE9 Guibert"
+- Nicola Samori
+- Ossip Zadkine
+- Ben Wooten
+- Frank Stella
+- Rockwell Kent
+- William Steig
+- Michael Sowa
+- John James Audubon
+- Hou China
+- Hiroshi Yoshida
+- "Eug\xE8ne Grasset"
+- Istvan Banyai
+- Hal Foster
+- Alfred Heber Hutty
+- Ub Iwerks
+- Josephine Wall
+- "Georgia O\u2019Keeffe"
+- John Hoyland
+- Arthur Adams
+- Peter Paul Rubens
+- Ilya Kuvshinov
+- Raymond Leech
+- Antanas Sutkus
+- Tibor Nagy
+- Richard McGuire
+- Aristide Maillol
+- Raymond Duchamp-Villon
+- Fernand Toussaint
+- Alfred Munnings
+- John Constable
+- Gustave Courbet
+- Jaume Plensa
+- Kengo Kuma
+- Bert Hardy
+- Lisa Keene
+- Donald Judd
+- Candido Portinari
+- Audrey Kawasaki
+- Rebeca Saray
+- Paul Delvaux
+- Pascal Blanche
+- Chris Foss
+- Heinrich Lefler
+- Paulus Potter
+- Robert Motherwell
+- Rebecca Louise Law
+- Robert S. Duncanson
+- Josh Keyes
+- Jon Klassen
+- Cedric Peyravernay
+- Cindy Sherman
+- Kati Horna
+- Andreas Vesalius
+- Ellen Gallagher
+- Anders Zorn
+- Sam Bosma
+- Mordecai Ardon
+- Patrick Woodroffe
+- Anja Percival
+- Alan Moore
+- Carlos Schwabe
+- Beeple
+- Brothers Hildebrandt
+- Maria Kreyn
+- Marco Mazzoni
+- Aquirax Uno
+- Ai Weiwei
+- Boris Vallejo
+- Jason Chan
+- John Singer Sargent
+- Marc Simonetti
+- Ernie Barnes
+- Rayner Alencar
+- Ary Scheffer
+- Hale Woodruff
+- Shotaro Ishinomori
+- Alexandre Cabanel
+- Ross Tran
+- Walter Crane
+- Ben Hatke
+- Alejandro Jodorowsky
+- Adrian Donoghue
+- Kaethe Butcher
+- Jules Bastien-Lepage
+- Henry Asencio
+- David Bomberg
+- Raphaelle Peale
+- Giuseppe Arcimboldo
+- Alex Colville
+- David Finch
+- Bartolome Esteban Murillo
+- Jim Davis
+- Vivienne Westwood
+- Chuck Close
+- Max Pechstein
+- Edward Gorey
+- Martin Kippenberger
+- Ul Di Rico
+- Sidney Nolan
+- Shawn Coss
+- Alex Ross
+- Reginald Marsh
+- "\xC9mile Bernard"
+- Henry Fuseli
+- Susan Seddon Boulet
+- Georg Jensen
+- Sue Bryce
+- Vivian Maier
+- Charles Gwathmey
+- "It\u014D Jakuch\u016B"
+- Liang Mark
+- Beth Conklin
+- Dain Yoon
+- Cyril Rolando
+- David Spriggs
+- Lori Earley
+- Gerhard Munthe
+- Sheilah Beckett
+- "\xC9mile Gall\xE9"
+- Albert Benois
+- Chris Claremont
+- Maurice Sendak
+- Robert Mcginnis
+- Sangyeob Park
+- August Macke
+- Marius Borgeaud
+- Martin John Heade
+- Franz Marc
+- Albert Edelfelt
+- Arthur Hughes
+- Gustave Moreau
+- Art Spiegelman
+- John Salminen
+- Sydney Edmunds
+- C. R. W. Nevinson
+- Kim Keever
+- Jeff Koons
+- Alexander Kanoldt
+- "Jean-Honor\xE9 Fragonard"
+- Jean Dubuffet
+- Adi Granov
+- Apollonia Saintclair
+- Annick Bouvattier
+- Abbott Fuller Graves
+- Joe Bowler
+- Ambrosius Bosschaert
+- Sara Wollfalk
+- Roy Gjertson
+- David Shrigley
+- Eddie Mendoza
+- Jasper Johns
+- Marianne von Werefkin
+- Hikari Shimoda
+- Greg Simkins
+- Alma Thomas
+- Barthel Bruyn the Younger
+- Amedeo Modigliani
+- Pixar
+- Diane Dillon
+- Steve Ditko
+- Nicolas Mignard
+- Kelly Vivanco
+- Siya Oum
+- Tom Hammick
+- Farel Dalrymple
+- RHADS
+- Ben Nicholson
+- Frederic Remington
+- Bo Chen
+- Emil Ferris
+- Mark Lovett
+- Vito Acconci
+- Oskar Fischinger
+- Shinji Aramaki
+- Zhelong Xu
+- David Inshaw
+- Brian Bolland
+- Richard Burlet
+- Aleksi Briclot
+- Anne Mccaffrey
+- Willem de Kooning
+- John French Sloan
+- Alexander Milne Calder
+- Maria Pascual Alberich
+- Blek Le Rat
+- Emma Geary
+- Kevin Sloan
+- Brett Weston
+- Andy Warhol
+- Andreas Rocha
+- Brian Stelfreeze
+- Alice Rahon
+- Yaacov Agam
+- Alain Laboile
+- Sparth
+- Robert Irwin
+- Josan Gonzalez
+- Brandon Mably
+- Angus McKie
+- Jim Burns
+- Philippe Druillet
+- Wilfredo Lam
+- Gustav Klimt
+- "Taiy\u014D Matsumoto"
+- Peter Mohrbacher
+- Ansel Adams
+- Paul Gustav Fischer
+- Kunisada
+- Seb Mckinnon
+- Teophilus Tetteh
+- Alfred Henry Maurer
+- Max Ernst
+- Harriet Backer
+- Georges de La Tour
+- Stan And Jan Berenstain
+- Brad Kunkle
+- John Frederick Kensett
+- Klaus Janson
+- Francis Picabia
+- Martine Johanna
+- Jacob Hashimoto
+- Tim Doyle
+- Alexander McQueen
+- Amadou Opa Bathily
+- A.J.Casson
+- "Gaston Bussi\xE8re"
+- Artemisia Gentileschi
+- Worthington Whittredge
+- Ravi Zupa
+- James Ensor
+- Agnes Martin
+- Sandro Botticelli
+- Jeffrey Catherine Jones
+- Maxfield Parrish
+- Mati Klarwein
+- Cory Arcangel
+- Emmanuel Shiu
+- Ellen Jewett
+- Archibald Thorburn
+- Jacob Lawrence
+- Guo Pei
+- Thomas Moran
+- Bernie Wrightson
+- Edward Julius Detmold
+- Martin Johnson Heade
+- Coles Phillips
+- Andrea Kowch
+- Eric Fischl
+- William-Adolphe Bouguereau
+- Richard Corben
+- Brian Mashburn
+- Albert Bierstadt
+- Yasutomo Oka
+- Anne Brigman
+- "Lorena Alvarez G\xF3mez"
+- Marie Guillemine Benoist
+- Edward Steichen
+- Bernard Aubertin
+- Jean Fouquet
+- Jeff Easley
+- James Jean
+- Eleanor Vere Boyle
+- Bettina Rheims
+- Carl Larsson
+- Geof Darrow
+- Mab Graves
+- Katsushika Hokusai
+- Vhils
+- Joe Webb
+- Barbara Takenaga
+- Anna Bocek
+- Dante Gabriel Rossetti
+- Hendrick Cornelisz Vroom
+- Anton Mauve
+- Brandon Woelfel
+- William Eggleston
+- Anne-Louis Girodet
+- Rebecca Sugar
+- Daniel Garber
+- Death Burger
+- Cassius Marcellus Coolidge
+- Henry Moret
+- "Honor\xE9 Daumier"
+- Antonio Donghi
+- Albert Robida
+- Jackson Pollock
+- Agnes Cecile
+- Thomas W Schaller
+- Hendrick Goltzius
+- Will Barnet
+- "Adolf Hir\xE9my-Hirschl"
+- Herbert List
+- Hilma AF Klint
+- Carel Willink
+- Ethan Van Sciver
+- JC Leyendecker
+- Bruce Munro
+- Paul Chadeisson
+- Philippe Parreno
+- Roger Dean
+- Boris Groh
+- David Hockney
+- Karel Thole
+- Giacomo Balla
+- Frank Lloyd Wright
+- Ingrid Baars
+- Nele Zirnite
+- Ray Caesar
+- Sean Yoro
+- Richard Doyle
+- Eduardo Kobra
+- Richard S. Johnson
+- Arnold Bocklin
+- Jason Edmiston
+- Cagnaccio Di San Pietro
+- Hsiao-Ron Cheng
+- Wadim Kashin
+- Edward Weston
+- Martin Deschambault
+- Benedick Bana
+- Alex Katz
+- Yiannis Moralis
+- Simon Bisley
+- Bill Carman
+- Andy Fairhurst
+- Matt Bors
+- Berend Strik
+- Christian Dimitrov
+- Ernst Haas
+- JennyBird Alcantara
+- Jhonen Vasquez
+- Laurent Grasso
+- Guido Borelli Da Caluso
+- Bruce Timm
+- Lesley Vance
+- Octavio Ocampo
+- Alexej von Jawlensky
+- M.C. Escher
+- Ernst Fuchs
+- Frank Tinsley
+- Andre Kohn
+- Hugh Ferriss
+- Thomas Eakins
+- George Tooker
+- Mary Blair
+- Wassily Kandinsky
+- Frederic Church
+- Anthony van Dyck
+- "J\xF3zef Mehoffer"
+- Carmen Saldana
+- J. J. Grandville
+- Daryl Mandryk
+- John Singleton Copley
+- Filippo Balbi
+- Arthur Hacker
+- Gaetano Pesce
+- Stuart Haygarth
+- Mikhail Larionov
+- Peter Elson
+- Benoit B. Mandelbrot
+- Michael Carson
+- Giovanni Battista Bracelli
+- Gil Elvgren
+- John Atkinson Grimshaw
+- Saul Steinberg
+- Jacques Le Moyne
+- Iryna Yermolova
+- Francis Coates Jones
+- Tim White
+- Alex Schomburg
+- Anne Stokes
+- Brothers Grimm
+- Jack Gaughan
+- Bojan Koturanovic
+- Lynda Barry
+- Daniele Afferni
+- Egon Schiele
+- Yuri Ivanovich Pimenov
+- Piet Hein Eek
+- Dora Maar
+- Patrice Murciano
+- Robert Maguire
+- Fairfield Porter
+- Amy Sillman
+- Milton Glaser
+- Igor Wolski
+- Diane Arbus
+- Viktor Vasnetsov
+- Gjon Mili
+- Charles Addams
+- Shin Jeongho
+- Hyacinthe Rigaud
+- Paul Gauguin
+- Greg Rutkowski
+- Jan Pietersz Saenredam
+- Victor Nizovtsev
+- Asger Jorn
+- Charles-Francois Daubigny
+- Alex Hirsch
+- Howard Chandler Christy
+- Ivan Aivazovsky
+- Michael Heizer
+- Leonetto Cappiello
+- Giorgio De Chirico
+- Nagel Patrick
+- Glenn Fabry
+- Eliott Lilly
+- Hendrik Kerstens
+- Juliana Huxtable
+- Russell Ayto
+- Paul Lehr
+- Anne Sudworth
+- Arthur Dove
+- Alfred Kelsner
+- Helene Knoop
+- Carl Holsoe
+- Jamie Hawkesworth
+- Robert M Cunningham
+- Michal Karcz
+- Alfred Cheney Johnston
+- Ben Shahn
+- Matti Suuronen
+- Robert Farkas
+- Adrian Paul Allinson
+- Lyubov Popova
+- Carl Gustav Carus
+- Alex Horley
+- Tomma Abts
+- Joe Madureira
+- Michael Deforge
+- Tristan Eaton
+- "Gabriele M\xFCnter"
+- Jeffrey Smith art
+- Carne Griffiths
+- Aristarkh Lentulov
+- Reylia Slaby
+- Bart Sears
+- Gerald Brom
+- Juan Gris
+- Dr. Seuss
+- Erin Hanson
+- Thomas Cole
+- Kurzgesagt
+- Martin Ansin
+- Kay Sage
+- Harry Clarke
+- Bill Ward
+- Lucy Madox Brown
+- Pierre Puvis de Chavannes
+- Justin Gerard
+- Samuel Earp
+- Ann Stookey
+- Patrick Heron
+- Coby Whitmore
+- Alice Pasquini
+- Jean Auguste Dominique Ingres
+- Yang Jialun
+- Bob Ross
+- Peter De Seve
+- Duy Huynh
+- "\xC9lisabeth Vig\xE9e Le Brun"
+- Larry Poons
+- Jeremiah Ketner
+- Makoto Shinkai
+- Kazimir Malevich
+- Constant Permeke
+- Carl Barks
+- Mikko Lagerstedt
+- Alberto Sughi
+- Patrick Caulfield
+- Clyde Caldwell
+- Keith Parkinson
+- Tom Whalen
+- Quentin Tarantino
+- Igor Zenin
+- Warwick Globe
+- "Marina Abramovi\u0107"
+- Douglas Smith
+- Noah Bradley
+- Nathan Coley
+- Barbara Kruger
+- Ron Mueck
+- Agnes Lawrence Pelton
+- Stephen Oakley
+- Juergen Teller
+- Heinrich Kley
+- Richard Dadd
+- Keith Negley
+- Etienne Hebinger
+- Glen Orbik
+- David Lynch
+- Zanele Muholi
+- Mark Ryden
+- Heinz Edelmann
+- Kate Beaton
+- "Tari Ma\u0301rk Da\u0301vid"
+- Chris Leib
+- Laurie Lipton
+- John Atherton
+- Shohei Otomo
+- Jeff Simpson
+- Adam Hughes
+- "Jakub R\xF3\u017Calski"
+- Paul Laffoley
+- Auguste Herbin
+- Zinaida Serebriakova
+- Android Jones
+- Gregory Crewdson
+- James C Christensen
+- "Briton Rivi\xE8re"
+- Dunkelbunt Hundertwasser
+- Santiago Calatrava
+- Jean Bourdichon
+- Arthur Lismer
+- Dean Cornwell
+- Antoine Verney-Carron
+- Peter Wileman
+- Galan Pang
+- Tim Hildebrandt
+- Anselm Kiefer
+- Isaac Cordal
+- Ian McQue
+- Jon Whitcomb
+- Paul Strand
+- Pamela Colman Smith
+- Henriette Grindat
+- Jane Newland
+- Edwin Deakin
+- Karen Wallis
+- Thomas Gainsborough
+- Don Bluth
+- Edgar Degas
+- Botero
+- Joseph Stella
+- David A. Hardy
+- Raphael Lacoste
+- Hans Arnold
+- Brent Heighton
+- Charles Le Brun
+- Yuumei
+- Costa Dvorezky
+- Joseph Lorusso
+- Max Dupain
+- Anka Zhuravleva
+- Olga Skomorokhova
+- Elliot Lilly
+- "Paul C\xE9zanne"
+- Andrei Markin
+- Jacek Yerka
+- Julian Calle
+- Bill Jacklin
+- Pierre-Auguste Renoir
+- Todd Schorr
+- W. Heath Robinson
+- Naoto Hattori
+- Wolf Kahn
+- H.P. Lovecraft
+- Marie Spartali Stillman
+- Olafur Eliasson
+- Salomon van Ruysdael
+- Artus Scheiner
+- Saner Edgar
+- Ben Templesmith
+- Hiroshi Nagai
+- Michael Hutter
+- Luca Boni
+- Jamini Roy
+- Alejandro Burdisio
+- Milton Caniff
+- Jean Arp
+- Howard Pyle
+- Jef Wu
+- Kieron Gillen
+- Edouard Manet
+- Slim Aarons
+- Diego Rivera
+- Alayna Lemmer
+- Ferdinand Van Kessel
+- Fang Lijun
+- Gustaf Tenggren
+- Natalia Goncharova
+- Jack Kirby
+- Tintoretto
+- Evelyn De Morgan
+- Albert Joseph Moore
+- Jan Van Eyck
+- Steven Belledin
+- Mark Seliger
+- James Montgomery Flagg
+- Tyler Edlin
+- William S. Burroughs
+- Annie Soudain
+- Anna Dittmann
+- Hajime Sorayama
+- Kaws
+- Hanna-Barbera
+- Ralph Steadman
+- Rene Laloux
+- Jean-Louis Prevost
+- Margaux Valonia
+- Jessica Woulfe
+- Algernon Blackwood
+- Walt Kelly
+- Benedetto Caliari
+- Joseph Mallord William Turner
+- Hugh Kretschmer
+- Bryan Hitch
+- Albert Eckhout
+- Barthel Bruyn the Elder
+seeds:
+- 664
+- 1622
+- 2031
+- 2505
+- 3799
+- 602
+- 4691
+- 4224
+- 834
+- 3307
+- 1397
+- 4991
+- 867
+- 1460
+- 4772
+- 1705
+- 2173
+- 1126
+- 979
+- 1251

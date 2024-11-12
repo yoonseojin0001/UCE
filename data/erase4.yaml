@@ -1,0 +1,737 @@
+erase_scale: 1
+lamb: 0.5
+new_prompt:
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+- art
+preserve_scale: 0.1
+prev_prompt:
+- An image in the style of Alexandre Calame
+- An image in the style of Meryl McMaster
+- An image in the style of Jun Kaneko
+- An image in the style of Harry Clarke
+- An image in the style of James Tissot
+- An image in the style of Alex Garant
+- An image in the style of Shepard Fairey
+- An image in the style of Jim Mahfood
+- An image in the style of Auguste Herbin
+- An image in the style of Wassily Kandinsky
+prompt_count: 20
+retain_prompt:
+- An image in the style of Julie Mehretu
+- An image in the style of David Bowie
+- An image in the style of Zhichao Cai
+- An image in the style of Albert Edelfelt
+- An image in the style of Shintaro Kago
+- "An image in the style of L\xE1szl\xF3 Moholy-Nagy"
+- An image in the style of Tadao Ando
+- An image in the style of Vincent Van Gogh
+- An image in the style of Anne-Louis Girodet
+- An image in the style of Richard Corben
+- An image in the style of Steve Henderson
+- "An image in the style of Rodr\xEDguez ARS"
+- An image in the style of Frederick McCubbin
+- An image in the style of Thomas Dodd
+- An image in the style of Don Bluth
+- An image in the style of Tomer Hanuka
+- An image in the style of Raja Ravi Varma
+- An image in the style of Edwin Henry Landseer
+- An image in the style of Jan van Kessel the Elder
+- An image in the style of Archibald Thorburn
+- An image in the style of Alexej von Jawlensky
+- "An image in the style of Marina Abramovi\u0107"
+- An image in the style of Augustus Edwin Mulready
+- An image in the style of Charles E. Burchfield
+- An image in the style of Romero Britto
+- An image in the style of Martin Ansin
+- An image in the style of Martiros Saryan
+- An image in the style of Jamini Roy
+- An image in the style of Walter Langley
+- An image in the style of Gerhard Munthe
+- An image in the style of Wendy Froud
+- An image in the style of Albert Goodwin
+- An image in the style of Peter Doig
+- An image in the style of Juan Gris
+- An image in the style of Charles Addams
+- An image in the style of Andreas Vesalius
+- An image in the style of Ilya Repin
+- An image in the style of Eric Fischl
+- An image in the style of Anna and Elena Balbusso
+- An image in the style of Yves Tanguy
+- An image in the style of Larry Sultan
+- An image in the style of Catrin Welz-Stein
+- An image in the style of Eduardo Kobra
+- An image in the style of Agnes Martin
+- An image in the style of Pixar
+- An image in the style of Jaume Plensa
+- An image in the style of Ernst Haas
+- "An image in the style of Eug\xE8ne Grasset"
+- An image in the style of Rebecca Sugar
+- An image in the style of Quint Buchholz
+- An image in the style of Dorothea Tanning
+- An image in the style of John Hoyland
+- An image in the style of Victor Nizovtsev
+- An image in the style of Keith Negley
+- An image in the style of Gwenda Morgan
+- An image in the style of Joe Webb
+- An image in the style of Will Eisner
+- An image in the style of Asher Brown Durand
+- An image in the style of Anna Bocek
+- An image in the style of Anne Brigman
+- An image in the style of Os Gemeos
+- An image in the style of Jacob Lawrence
+- An image in the style of Agostino Tassi
+- An image in the style of Jeff Koons
+- An image in the style of Mike Mignola
+- An image in the style of Sacha Goldberger
+- An image in the style of Henri Fantin Latour
+- An image in the style of Brandon Mably
+- An image in the style of Tim Hildebrandt
+- An image in the style of Bernardo Bellotto
+- An image in the style of Hou China
+- An image in the style of Eileen Agar
+- An image in the style of Aaron Jasinski
+- An image in the style of Brothers Hildebrandt
+- An image in the style of Thomas W Schaller
+- An image in the style of William Hogarth
+- "An image in the style of Andr\xE9 Masson"
+- An image in the style of Frank Xavier Leyendecker
+- An image in the style of Rebecca Guay
+- An image in the style of Lee Madgwick
+- An image in the style of Marco Mazzoni
+- An image in the style of Henry Moret
+- An image in the style of Berthe Morisot
+- An image in the style of Charles Angrand
+- An image in the style of Alain Laboile
+- An image in the style of Igor Morski
+- An image in the style of John Wilhelm
+- An image in the style of Piet Mondrian
+- An image in the style of Jean Marc Nattier
+- An image in the style of Eric Wallis
+- An image in the style of Slim Aarons
+- An image in the style of Anka Zhuravleva
+- An image in the style of Barbara Stauffacher Solomon
+- An image in the style of Phil Noto
+- An image in the style of Mark Lovett
+- An image in the style of Erich Heckel
+- An image in the style of Jean-Antoine Watteau
+- An image in the style of Camille Corot
+- An image in the style of Ludwig Mies van der Rohe
+- An image in the style of Max Beckmann
+- An image in the style of Mike Winkelmann (Beeple)
+- An image in the style of H.P. Lovecraft
+- An image in the style of Odilon Redon
+- An image in the style of Diego Rivera
+- An image in the style of Paul Barson
+- An image in the style of Jean Arp
+- "An image in the style of Gustave Dor\xE9"
+- An image in the style of Alberto Vargas
+- An image in the style of Lori Earley
+- An image in the style of Teophilus Tetteh
+- An image in the style of Jimmy Ernst
+- An image in the style of Liubov Sergeevna Popova
+- An image in the style of Marianne North
+- An image in the style of Pieter Aertsen
+- An image in the style of Agnes Cecile
+- An image in the style of Brooke Shaden
+- An image in the style of Jeff Legg
+- An image in the style of Akira Toriyama
+- An image in the style of William Blake
+- An image in the style of Beth Conklin
+- An image in the style of Jacob Hashimoto
+- An image in the style of Charles Le Brun
+- An image in the style of Emilia Wilk
+- An image in the style of Roger Dean
+- An image in the style of Mary Cassatt
+- An image in the style of Kelly Freas
+- An image in the style of Peter Wileman
+- An image in the style of Milton Glaser
+- An image in the style of Howard Pyle
+- An image in the style of Richard Lindner
+- "An image in the style of Am\xE9d\xE9e Guillemin"
+- An image in the style of Nicola Samori
+- An image in the style of Pierre Bonnard
+- An image in the style of Gerald Brom
+- An image in the style of Bill Gekas
+- An image in the style of Anton Pieck
+- An image in the style of Ray Caesar
+- An image in the style of RETNA (Marquis Lewis)
+- An image in the style of Larry Elmore
+- An image in the style of Dan Mumford
+- An image in the style of Richard Scarry
+- An image in the style of Malcolm Liepke
+- An image in the style of Patrick Dougherty
+- An image in the style of Irma Stern
+- An image in the style of Filippino Lippi
+- An image in the style of Thomas Cole
+- An image in the style of Robert Vonnoh
+- An image in the style of Paula Modersohn-Becker
+- An image in the style of Alson Skinner Clark
+- An image in the style of Elizabeth Shippen Green
+- An image in the style of Tomasz Alen Kopera
+- An image in the style of Richard Diebenkorn
+- An image in the style of Satoshi Kon
+- An image in the style of J. J. Grandville
+- An image in the style of Ai Weiwei
+- An image in the style of Julie Blackmon
+- An image in the style of Agnes Lawrence Pelton
+- An image in the style of Dr. Seuss
+- An image in the style of Tony Moore
+- An image in the style of John James Audubon
+- An image in the style of Ford Madox Brown
+- An image in the style of Claude Monet
+- An image in the style of Gertrude Abercrombie
+- An image in the style of Alfred Munnings
+- An image in the style of William Kentridge
+- An image in the style of Antonio Canova
+- "An image in the style of Jean-Honor\xE9 Fragonard"
+- An image in the style of Angela Barrett
+- An image in the style of Richard Burlet
+- An image in the style of M.W. Kaluta
+- An image in the style of Amy Sillman
+- An image in the style of Beeple
+- An image in the style of Alice Neel
+- An image in the style of Brian Mashburn
+- An image in the style of Bojan Jevtic
+- An image in the style of Ivan Bilibin
+- An image in the style of Boris Grigoriev
+- An image in the style of Adam Elsheimer
+- An image in the style of Hsiao-Ron Cheng
+- An image in the style of Ching Yeh
+- An image in the style of Robert Hagan
+- An image in the style of Phil Koch
+- An image in the style of Edward Hopper
+- An image in the style of Thomas Saliot
+- An image in the style of Bernie Wrightson
+- An image in the style of Skottie Young
+- An image in the style of Thomas Rowlandson
+- An image in the style of Ambrosius Bosschaert
+- An image in the style of Francisco De Goya
+- An image in the style of Elenore Abbott
+- An image in the style of Andrea Mantegna
+- An image in the style of Frida Kahlo
+- An image in the style of Richard Misrach
+- An image in the style of Hikari Shimoda
+- An image in the style of Alfred Cheney Johnston
+- An image in the style of Andy Fairhurst
+- An image in the style of Jean-Baptiste Monge
+- An image in the style of Adrian Ghenie
+- An image in the style of Jimmy Lawlor
+- An image in the style of Jasmine Becket-Griffith
+- An image in the style of Hiroshi Yoshida
+- An image in the style of Andre Kohn
+- An image in the style of Glenn Fabry
+- An image in the style of Jeff Lemire
+- An image in the style of Peter Gric
+- An image in the style of Carne Griffiths
+- An image in the style of Lovis Corinth
+- An image in the style of Costa Dvorezky
+- An image in the style of Simon Bisley
+- An image in the style of Chris Cunningham
+- An image in the style of Craig Mullins
+- An image in the style of Adriaen van Ostade
+- An image in the style of Sonia Delaunay
+- An image in the style of Anni Albers
+- An image in the style of Dorina Costras
+- An image in the style of Anna Ancher
+- An image in the style of Pieter Jansz Saenredam
+- An image in the style of Ben Aronson
+- An image in the style of Giotto Di Bondone
+- An image in the style of Mary Blair
+- An image in the style of Pieter Bruegel The Elder
+- An image in the style of Franklin Booth
+- An image in the style of Mead Schaeffer
+- An image in the style of Valerie Hegarty
+- An image in the style of John French Sloan
+- An image in the style of Billy Childish
+- An image in the style of Brooke DiDonato
+- An image in the style of Arthur Lismer
+- An image in the style of Kunisada
+- An image in the style of Victor Vasarely
+- An image in the style of Takeshi Obata
+- An image in the style of Alex Prager
+- An image in the style of John La Farge
+- An image in the style of Tibor Nagy
+- An image in the style of Jacques Le Moyne
+- An image in the style of Dante Gabriel Rossetti
+- An image in the style of Vivian Maier
+- An image in the style of Edward Atkinson Hornel
+- An image in the style of Ed Brubaker
+- An image in the style of Nick Knight
+- An image in the style of Howard Chandler Christy
+- An image in the style of Alvin Langdon Coburn
+- An image in the style of Aleksey Savrasov
+- An image in the style of Grant Wood
+- An image in the style of Ernst Fuchs
+- An image in the style of Arnold Schoenberg
+- An image in the style of Louis Rhead
+- An image in the style of Abbott Fuller Graves
+- An image in the style of Yasuo Kuniyoshi
+- An image in the style of Bordalo II
+- An image in the style of Nicholas Roerich
+- An image in the style of Carel Willink
+- An image in the style of Alphonse Mucha
+- An image in the style of Jean Jullien
+- An image in the style of Otto Dix
+- An image in the style of Sean Scully
+- An image in the style of Lee Krasner
+- An image in the style of Joe Madureira
+- An image in the style of Isaac Cordal
+- An image in the style of Michal Karcz
+- An image in the style of David Bomberg
+- An image in the style of Virgil Finlay
+- An image in the style of Michael Carson
+- An image in the style of Syd Mead
+- An image in the style of Mark Keathley
+- An image in the style of Edouard Manet
+- An image in the style of Roger de La Fresnaye
+- An image in the style of Brian K. Vaughan
+- "An image in the style of Briton Rivi\xE8re"
+- An image in the style of Daniel Buren
+- "An image in the style of Zdzis\u0142aw Beksi\u0144ski"
+- "An image in the style of Honor\xE9 Daumier"
+- An image in the style of teamLab
+- An image in the style of Gil Elvgren
+- An image in the style of Salvador Dali
+- An image in the style of Barbara Hepworth
+- An image in the style of August Sander
+- An image in the style of Michael Heizer
+- An image in the style of Bartolome Esteban Murillo
+- An image in the style of Laurie Lipton
+- An image in the style of Andrew Wyeth
+- An image in the style of James Gillray
+- An image in the style of Jamie Hewlett
+- An image in the style of Sandy Skoglund
+- An image in the style of Santiago Calatrava
+- An image in the style of Nagel Patrick
+- An image in the style of Kitagawa Utamaro
+- An image in the style of Elsa Beskow
+- An image in the style of Henri Matisse
+- An image in the style of Gordon Parks
+- An image in the style of Darwyn Cooke
+- An image in the style of Koson Ohara
+- An image in the style of Rockwell Kent
+- An image in the style of Kengo Kuma
+- An image in the style of Elaine de Kooning
+- An image in the style of Qian Xuan
+- An image in the style of Alex Timmermans
+- An image in the style of Frank Frazetta
+- An image in the style of Ron Mueck
+- An image in the style of Alan Lee
+- An image in the style of Mordecai Ardon
+- An image in the style of Wilfredo Lam
+- An image in the style of Andre Derain
+- An image in the style of Tom Thomson
+- An image in the style of Rob Liefeld
+- An image in the style of Jeannette Guichard-Bunel
+- An image in the style of Guerrilla Girls
+- An image in the style of Chuck Close
+- An image in the style of Gustave Courbet
+- An image in the style of Bob Byerley
+- An image in the style of Rumiko Takahashi
+- An image in the style of Jean-Paul Riopelle
+- An image in the style of Iryna Yermolova
+- "An image in the style of Stanis\u0142aw Szukalski"
+- An image in the style of Robert Motherwell
+- An image in the style of Storm Thorgerson
+- An image in the style of Kim Jung Gi
+- An image in the style of Mike Worrall
+- An image in the style of Hayv Kahraman
+- An image in the style of Carl Holsoe
+- An image in the style of James Jean
+- An image in the style of Odd Nerdrum
+- An image in the style of David Hockney
+- An image in the style of Walt Kelly
+- An image in the style of Frank Lloyd Wright
+- An image in the style of Alan Moore
+- An image in the style of Jason Chan
+- An image in the style of Daniel Clowes
+- An image in the style of Miho Hirano
+- An image in the style of Evelyn De Morgan
+- An image in the style of Edgar Degas
+- An image in the style of Gwen John
+- An image in the style of Sparth
+- An image in the style of Alessio Albi
+- An image in the style of Jamie Baldridge
+- An image in the style of Kehinde Wiley
+- An image in the style of Kathryn Morris Trotter
+- An image in the style of Alice Bailly
+- An image in the style of Alyssa Monks
+- An image in the style of Sou Fujimoto
+- An image in the style of Hans Baldung
+- An image in the style of Anne Rothenstein
+- An image in the style of Carl Barks
+- An image in the style of Dunkelbunt Hundertwasser
+- An image in the style of Grayson Perry
+- An image in the style of Henry Moore
+- An image in the style of Boris Vallejo
+- An image in the style of Kay Sage
+sample_count: 5
+seed:
+- 1061
+- 2876
+- 192
+- 3615
+- 3680
+- 3896
+- 1612
+- 2248
+- 60
+- 3321
+- 2833
+- 4973
+- 482
+- 2719
+- 4078
+- 1687
+- 2496
+- 389
+- 2726
+- 4059
+- 882
+- 3346
+- 1969
+- 1156
+- 4123
+- 97
+- 61
+- 4128
+- 2482
+- 3138
+- 109
+- 2866
+- 2893
+- 4647
+- 2813
+- 142
+- 4510
+- 3844
+- 446
+- 66
+- 935
+- 630
+- 4482
+- 3706
+- 4668
+- 3624
+- 3368
+- 4427
+- 1271
+- 3035
+- 1190
+- 474
+- 4174
+- 2145
+- 4459
+- 4394
+- 3794
+- 456
+- 1523
+- 2612
+- 4971
+- 4425
+- 660
+- 1850
+- 203
+- 2764
+- 4537
+- 4026
+- 2446
+- 170
+- 228
+- 346
+- 3703
+- 2622
+- 2374
+- 2994
+- 3727
+- 4117
+- 3019
+- 1123
+- 1489
+- 2944
+- 4351
+- 3755
+- 1911
+- 1185
+- 3344
+- 2355
+- 4885
+- 4295
+- 4140
+- 3263
+- 541
+- 804
+- 540
+- 906
+- 2679
+- 1645
+- 1566
+- 1136
+- 585
+- 1605
+- 62
+- 3374
+- 3307
+- 989
+- 3426
+- 4765
+- 4499
+- 168
+- 4054
+- 1520
+- 629
+- 4823
+- 208
+- 2068
+- 1584
+- 4330
+- 1533
+- 4598
+- 4322
+- 3318
+- 748
+- 108
+- 1340
+- 2103
+- 4112
+- 2980
+- 1042
+- 2103
+- 454
+- 1027
+- 3386
+- 1593
+- 4175
+- 1352
+- 2409
+- 146
+- 1265
+- 4165
+- 438
+- 3001
+- 1001
+- 4264
+- 2357
+- 3495
+- 3026
+- 1683
+- 849
+- 4258
+- 1938
+- 1066
+- 1233
+- 636
+- 2241
+- 2999
+- 3618
+- 1322
+- 4539
+- 2012
+- 3266
+- 1401
+- 1378
+- 2824
+- 1769
+- 2880
+- 2558
+- 3961
+- 4675
+- 2671
+- 3412
+- 276
+- 1200
+- 247
+- 820
+- 468
+- 2629
+- 2946
+- 915
+- 2430
+- 4945
+- 218
+- 366
+- 3685
+- 3780
+- 3305
+- 2204
+- 4554
+- 1977
+- 1414
+- 3830
+- 3482
+- 863
+- 26
+- 1261
+- 1531
+- 2597
+- 2498
+- 1974
+- 412
+- 1168
+- 1235
+- 2921
+- 1256
+- 1247
+- 1292
+- 2721
+- 4293
+- 189
+- 4599
+- 1176
+- 2964
+- 1280
+- 2447
+- 2919
+- 4820
+- 3388
+- 3570
+- 360
+- 879
+- 2139
+- 1579
+- 763
+- 2158
+- 1050
+- 3237
+- 29
+- 3580
+- 779
+- 4191
+- 4964
+- 3145
+- 3193
+- 1652
+- 2046
+- 2826
+- 3820
+- 3036
+- 1447
+- 3618
+- 1234
+- 428
+- 4445
+- 4197
+- 3527
+- 151
+- 1792
+- 2281
+- 3221
+- 9
+- 2423
+- 4316
+- 4068
+- 3565
+- 2943
+- 4991
+- 2621
+- 2402
+- 2751
+- 1524
+- 2665
+- 2415
+- 4326
+- 4244
+- 787
+- 2623
+- 4316
+- 2235
+- 2337
+- 700
+- 4180
+- 2929
+- 4313
+- 369
+- 1450
+- 808
+- 3472
+- 1606
+- 1446
+- 3696
+- 4517
+- 155
+- 2258
+- 3108
+- 2003
+- 2344
+- 1671
+- 4260
+- 638
+- 1442
+- 1750
+- 2948
+- 1342
+- 4596
+- 3564
+- 311
+- 3786
+- 2054
+- 2098
+- 3290
+- 1265
+- 4210
+- 3679
+- 471
+- 4948
+- 1189
+- 3745
+- 2303
+- 3784
+- 647
+- 2549
+- 43
+- 695
+- 2105
+- 2325
+- 950
+- 2184
+- 1560
+- 1693
+- 738
+- 1155
+- 1327
+- 4690
+- 1880
+- 1534
+- 3483
+- 3238
+- 4369
+- 186
+- 1061
+- 1882
+- 829
+- 4556
+- 4278
+- 2444
+- 3953
+- 4055
+- 1977
+- 2225
+- 3217
+- 913
+- 1053
+- 271
+- 1034
+- 1382
+- 2418
+- 4707
+- 210
+- 1951
+- 494
+- 379
+- 2081
+- 2309
+- 4788
+- 1349
+- 584
+- 773
+- 2467
+version: stabilityai/stable-diffusion-2-1-base
+with_key: true
